@@ -1,27 +1,4 @@
 ﻿# config/data_config.py
-"""
-Data Configuration Management Module
-=====================================
-
-This module provides centralized configuration for data source management,
-including local file system scanning and Google Drive integration for
-collaborative scientific research projects.
-
-Author: SYPHU-CHINA iGEM Team
-Date: 2025-10-01
-License: MIT
-
-Dependencies:
-    - pathlib (standard library)
-    - typing (standard library)
-    - os (standard library)
-
-Notes
------
-This configuration module supports both local data access and cloud-based
-data sharing, facilitating reproducible research workflows and multi-site
-collaboration as recommended by Nature Data standards.
-"""
 
 import os
 from pathlib import Path
@@ -32,6 +9,18 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+# 添加到文件开头
+GOOGLE_DRIVE_DATA_FOLDER = "https://drive.google.com/drive/folders/1I8TGzkjrJ3lqEHpbU8dlX2riyWBm9RmQ"
+
+@classmethod
+def get_cloud_data_info(cls) -> Dict[str, str]:
+    """获取云端数据信息"""
+    return {
+        "provider": "Google Drive",
+        "folder_url": GOOGLE_DRIVE_DATA_FOLDER,
+        "access": "Team members with permission",
+        "instructions": "Open link in browser to browse and download files"
+    }
 
 # ============================================================================
 # Data Source Configuration Class
