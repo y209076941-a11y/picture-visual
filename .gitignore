@@ -1,0 +1,25 @@
+# 忽略所有文件
+*
+
+# 但不忽略以下文件类型和目录
+!*.py
+!*.html
+!*.css
+!*.js
+!*.json
+!*.xml
+!*.txt
+!*.md
+!*.yml
+!*.yaml
+!*.gitignore
+!.lfsconfig
+
+# 不忽略以下目录（注意：如果目录被忽略，需要单独排除）
+!src/
+!docs/
+!scripts/
+
+# 但是，我们可能有一些大文件在以上类型中，比如大的HTML文件，我们可以用LFS跟踪HTML文件，但注意额度
+# 如果我们不想用LFS跟踪HTML，那么这里就不跟踪，但是大的HTML文件会被拒绝，所以我们需要确保HTML文件不大。
+# 如果有大的HTML文件，我们可以在.gitignore中忽略，或者用LFS跟踪。
