@@ -1,0 +1,92 @@
+类胡萝卜素合成质粒分析 综合分析报告
+生成时间: 2025-09-12 23:19:56
+============================================================
+
+--- 序列: 融合β胡萝卜素质粒(1)(1).dna ---
+长度: 217945 bp
+GC含量: 19.99%
+分子量: 34967676.22 Da
+碱基组成: A:30551, T:39224, G:21741, C:21820
+
+检测到的遗传元件:
+  - crtE (GGPP synthase (crtE-like)): 9 found
+  - crtB (Phytoene synthase (crtB-like)): 9 found
+  - crtI (Phytoene desaturase (crtI-like)): 6 found
+  - crtY (Lycopene cyclase (crtY-like)): 7 found
+  - ampR (Ampicillin resistance (bla-like)): 1 found
+
+限制酶分析:
+  共 0 种酶有切点。总切点数: 0
+
+============================================================
+
+--- 序列: 融合PCR.dna ---
+长度: 122821 bp
+GC含量: 20.57%
+分子量: 19896716.08 Da
+碱基组成: A:17293, T:21929, G:12611, C:12650
+
+检测到的遗传元件:
+  - crtE (GGPP synthase (crtE-like)): 5 found
+  - crtB (Phytoene synthase (crtB-like)): 5 found
+  - crtI (Phytoene desaturase (crtI-like)): 3 found
+  - crtY (Lycopene cyclase (crtY-like)): 4 found
+
+限制酶分析:
+  共 0 种酶有切点。总切点数: 0
+
+============================================================
+
+--- 序列: 融合pcr(1).dna ---
+长度: 58542 bp
+GC含量: 23.42%
+分子量: 9864668.30 Da
+碱基组成: A:8143, T:10105, G:6880, C:6831
+
+检测到的遗传元件:
+  - crtE (GGPP synthase (crtE-like)): 5 found
+  - crtB (Phytoene synthase (crtB-like)): 5 found
+  - crtI (Phytoene desaturase (crtI-like)): 3 found
+  - crtY (Lycopene cyclase (crtY-like)): 4 found
+
+限制酶分析:
+  共 0 种酶有切点。总切点数: 0
+
+============================================================
+
+--- 序列: 融合ATRA质粒.dna ---
+长度: 90037 bp
+GC含量: 22.85%
+分子量: 15006168.66 Da
+碱基组成: A:12294, T:15735, G:10488, C:10085
+
+检测到的遗传元件:
+  - crtE (GGPP synthase (crtE-like)): 9 found
+  - crtB (Phytoene synthase (crtB-like)): 8 found
+  - crtI (Phytoene desaturase (crtI-like)): 5 found
+  - crtY (Lycopene cyclase (crtY-like)): 7 found
+  - ampR (Ampicillin resistance (bla-like)): 1 found
+
+限制酶分析:
+  共 0 种酶有切点。总切点数: 0
+
+============================================================
+
+--- 序列: 线性化的21trc.dna ---
+长度: 70029 bp
+GC含量: 22.26%
+分子量: 11648298.67 Da
+碱基组成: A:9392, T:12758, G:7952, C:7635
+
+检测到的遗传元件:
+  - crtE (GGPP synthase (crtE-like)): 5 found
+  - crtB (Phytoene synthase (crtB-like)): 5 found
+  - crtI (Phytoene desaturase (crtI-like)): 3 found
+  - crtY (Lycopene cyclase (crtY-like)): 4 found
+  - ampR (Ampicillin resistance (bla-like)): 1 found
+
+限制酶分析:
+  共 0 种酶有切点。总切点数: 0
+
+============================================================
+
