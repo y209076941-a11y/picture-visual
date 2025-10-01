@@ -1,0 +1,10 @@
+﻿
+# 忽略完整数据集
+syphu-china-model/
+full_research_data/
+local_data/
+*.h5ad
+large_files/
+
+# 保留演示数据
+!demo_data/
