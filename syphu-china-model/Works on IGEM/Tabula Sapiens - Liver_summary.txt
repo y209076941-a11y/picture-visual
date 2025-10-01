@@ -1,0 +1,4 @@
+数据集: Tabula Sapiens - Liver
+细胞数量: 22214
+基因数量: 61759
+表型信息列: donor_id, tissue_in_publication, anatomical_position, method, cdna_plate, library_plate, notes, cdna_well, assay_ontology_term_id, sample_id, replicate, 10X_run, ambient_removal, donor_method, donor_assay, donor_tissue, donor_tissue_assay, cell_type_ontology_term_id, compartment, broad_cell_class, free_annotation, manually_annotated, published_2022, n_genes_by_counts, total_counts, total_counts_mt, pct_counts_mt, total_counts_ercc, pct_counts_ercc, _scvi_batch, _scvi_labels, scvi_leiden_donorassay_full, ethnicity_original, scvi_leiden_res05_tissue, sample_number, suspension_type, tissue_type, disease_ontology_term_id, is_primary_data, tissue_ontology_term_id, sex_ontology_term_id, self_reported_ethnicity_ontology_term_id, development_stage_ontology_term_id, cell_type, assay, disease, sex, tissue, self_reported_ethnicity, development_stage, observation_joinid
