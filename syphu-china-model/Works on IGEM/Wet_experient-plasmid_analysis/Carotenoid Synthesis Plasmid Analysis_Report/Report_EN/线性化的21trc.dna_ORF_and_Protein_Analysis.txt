@@ -1,0 +1,441 @@
+--- 线性化的21trc.dna: ORF_and_Protein_Analysis ---
+
+ORF ID: ORF_1 (120-396, Strand: 1)
+  Length(aa): 91
+  MW(Da): 9772.13
+  Isoelectric Point(pI): 10.25
+  Instability Index: 39.39 (Stable)
+  Codon Adaptation Index (vs reference): 0.157
+  Protein Sequence: TGLEGFFAERRNYIRIGEWDAPCSGALSAAGVVVTRSVTATLASALAPAPFAFFPSFLATFAGFPRQALNRGLPLGFRFSALRHLDPKKLD
+
+ORF ID: ORF_41 (155-317, Strand: -1)
+  Length(aa): 53
+  MW(Da): 5330.16
+  Isoelectric Point(pI): 12.00
+  Instability Index: 22.95 (Stable)
+  Codon Adaptation Index (vs reference): 0.164
+  Protein Sequence: RGKPANVARKEGKKAKGAGARALASVAVTLRVTTTPAALNAPLQGASHSPIRI
+
+ORF ID: ORF_18 (191-359, Strand: 1)
+  Length(aa): 55
+  MW(Da): 6324.24
+  Isoelectric Point(pI): 12.00
+  Instability Index: 91.54 (Unstable)
+  Codon Adaptation Index (vs reference): 0.245
+  Protein Sequence: RRIKRGGCGGYAQRDRYTCQRPSARSFRFLPFLSRHVRRLSPSSSKSGAPFRVPI
+
+ORF ID: ORF_19 (611-869, Strand: 1)
+  Length(aa): 85
+  MW(Da): 9959.38
+  Isoelectric Point(pI): 9.00
+  Instability Index: 48.40 (Unstable)
+  Codon Adaptation Index (vs reference): 0.160
+  Protein Sequence: QNINVYNFRWHFSGKCARNPYLFIFLNTFKYVSAHETITLINASIILKKEEYEYSTFPCRPYSLFCGILPSCFCSPRNAGESKRC
+
+ORF ID: ORF_31 (696-984, Strand: -1)
+  Length(aa): 95
+  MW(Da): 11184.86
+  Isoelectric Point(pI): 10.02
+  Instability Index: 24.97 (Stable)
+  Codon Adaptation Index (vs reference): 0.250
+  Protein Sequence: QNFKSAHHWKTFFGAKTLKDLTAVEIQFDVTHSCTQLIFSIFYFHQRFWVSKNRKAKCRKKGNKGDTEMLNTHTLPFSILLKHLSGLLSHERIHI
+
+ORF ID: ORF_2 (753-1626, Strand: 1)
+  Length(aa): 290
+  MW(Da): 32028.48
+  Isoelectric Point(pI): 6.21
+  Instability Index: 41.96 (Unstable)
+  Codon Adaptation Index (vs reference): 0.231
+  Protein Sequence: KRKSMSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYIELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRWEPELNEAIPNDERDTTMPAAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGASLIKHW
+
+ORF ID: ORF_40 (893-1046, Strand: -1)
+  Length(aa): 50
+  MW(Da): 5538.57
+  Isoelectric Point(pI): 11.79
+  Instability Index: 104.99 (Unstable)
+  Codon Adaptation Index (vs reference): 0.109
+  Protein Sequence: CMRRPSCSCPASIRDNTAPHSRTLKVLIIGKRSSGRKLSRILPLLRSSSM
+
+ORF ID: ORF_39 (1052-1229, Strand: -1)
+  Length(aa): 58
+  MW(Da): 6176.38
+  Isoelectric Point(pI): 9.90
+  Instability Index: 40.27 (Unstable)
+  Codon Adaptation Index (vs reference): 0.249
+  Protein Sequence: SPMLCKKAVSSFGPPIVVRSKLAAVLSLMVMAALHNSLTVMPSVRCFSVTGEYSTKSF
+
+ORF ID: ORF_47 (1096-1354, Strand: -1)
+  Length(aa): 85
+  MW(Da): 9726.41
+  Isoelectric Point(pI): 8.59
+  Instability Index: 71.30 (Unstable)
+  Codon Adaptation Index (vs reference): 0.174
+  Protein Sequence: VVRQLIVCATLLPLLQASWCHARRLVWLHSAPVPNDQGELHDPPCCAKKRLAPSVLRSLSEVSWPQCYHSWLWQHCIILLLSCHP
+
+ORF ID: ORF_38 (1229-1541, Strand: -1)
+  Length(aa): 103
+  MW(Da): 10664.95
+  Isoelectric Point(pI): 11.80
+  Instability Index: 79.11 (Unstable)
+  Codon Adaptation Index (vs reference): 0.146
+  Protein Sequence: ITTIREGLPSGPSAAMIPRDPRSPAPDLSAINQPAGRAERRSGPATLSASIQSINCCREARVSSSPVNSLRNVVAIAAGIVVSRSSFGMASFSSGSQRSRRVT
+
+ORF ID: ORF_30 (1377-1605, Strand: -1)
+  Length(aa): 75
+  MW(Da): 8490.57
+  Isoelectric Point(pI): 9.62
+  Instability Index: 36.83 (Stable)
+  Codon Adaptation Index (vs reference): 0.229
+  Protein Sequence: GTYLSDLSISFIHSCLTPRRVDNYDTGGLTIWPQCCNDTARPTLTGSRFISNKPASRKGRAQKWSCNFIRLHPVY
+
+ORF ID: ORF_10 (1384-1537, Strand: 1)
+  Length(aa): 50
+  MW(Da): 5595.55
+  Isoelectric Point(pI): 10.69
+  Instability Index: 61.00 (Unstable)
+  Codon Adaptation Index (vs reference): 0.142
+  Protein Sequence: TGWRRIKLQDHFCARPFRLAGLLLINLEPVSVGLAVSLQHWGQMVSPPVS
+
+ORF ID: ORF_20 (1745-2051, Strand: 1)
+  Length(aa): 101
+  MW(Da): 11169.65
+  Isoelectric Point(pI): 10.58
+  Instability Index: 56.54 (Unstable)
+  Codon Adaptation Index (vs reference): 0.258
+  Protein Sequence: VFVPLSVRPRRKDQRIFLRSFFSARNLLLANKKTTATSGGLFAGSRATNSFSEGNWLQQSADTKYCPSSVAVVRPPLQELCSTAYIPRSANPVTSGCCQWR
+
+ORF ID: ORF_3 (1800-1956, Strand: 1)
+  Length(aa): 51
+  MW(Da): 5664.79
+  Isoelectric Point(pI): 8.66
+  Instability Index: 51.33 (Unstable)
+  Codon Adaptation Index (vs reference): 0.199
+  Protein Sequence: DPFFLRVICCLQTKKPPLPAVVCLPDQELPTLFPKVTGFSRAQIPNTVLLV
+
+ORF ID: ORF_37 (1877-2156, Strand: -1)
+  Length(aa): 92
+  MW(Da): 10174.59
+  Isoelectric Point(pI): 10.22
+  Instability Index: 34.83 (Stable)
+  Codon Adaptation Index (vs reference): 0.257
+  Protein Sequence: VVRSKLGCVHEPPVQPDRCALSGNYRLESNPVRHDLSPLAAATGNRISRARYVGGATEFLKWWPNYGYTRRTVFGICALLKPVTFGKRVGSS
+
+ORF ID: ORF_11 (2017-2170, Strand: 1)
+  Length(aa): 50
+  MW(Da): 5780.42
+  Isoelectric Point(pI): 10.68
+  Instability Index: 73.66 (Unstable)
+  Codon Adaptation Index (vs reference): 0.195
+  Protein Sequence: SCYQWLLPVAISRVLPGWTQDDSYRIRRSGRAERGVRAHSPAWSERPTPN
+
+ORF ID: ORF_46 (2059-2485, Strand: -1)
+  Length(aa): 141
+  MW(Da): 15827.06
+  Isoelectric Point(pI): 10.00
+  Instability Index: 53.27 (Unstable)
+  Codon Adaptation Index (vs reference): 0.215
+  Protein Sequence: YGYPQNQGITQERTCEQKASKRPGTVKRPRCWRFSIGSAPLTSITKIDAQVRGGETRQDYKDTRRFPLEAPSCALLFRPCRLPDTCPPFSLREAWRFLIAHAVGISVRCRSFAPSWAVCTNPPFSPTAAPYPVTIVLSPTR
+
+ORF ID: ORF_29 (2187-2361, Strand: -1)
+  Length(aa): 57
+  MW(Da): 6224.21
+  Isoelectric Point(pI): 11.04
+  Instability Index: 36.75 (Stable)
+  Codon Adaptation Index (vs reference): 0.136
+  Protein Sequence: RASQKSTLKSEVAKPDRTIKIPGVSPWKLPRALSCSDPAAYRIPVRLSPFGKRGAFS
+
+ORF ID: ORF_12 (2242-2551, Strand: 1)
+  Length(aa): 102
+  MW(Da): 10740.07
+  Isoelectric Point(pI): 4.81
+  Instability Index: 43.24 (Unstable)
+  Codon Adaptation Index (vs reference): 0.193
+  Protein Sequence: AAGSEQESARGSFQGETPGIFIVLSGFATSDLSVDFCDARQGGGAYGKTPATRPFYGSWPFAGLLLTCSFLRYPLILWITVLPPLSELIPLAAAERPSAASQ
+
+ORF ID: ORF_36 (2438-2663, Strand: -1)
+  Length(aa): 74
+  MW(Da): 8307.51
+  Isoelectric Point(pI): 10.79
+  Instability Index: 74.63 (Unstable)
+  Codon Adaptation Index (vs reference): 0.145
+  Protein Sequence: LCGIRADCTESAPYMRCEIPHRCVRRKYRIRRSSASSLTDSLRSVVRLRRAVSAHSKAVIRLSTESGDNAGKNM
+
+ORF ID: ORF_4 (2502-2667, Strand: 1)
+  Length(aa): 54
+  MW(Da): 6150.85
+  Isoelectric Point(pI): 7.06
+  Instability Index: 71.01 (Unstable)
+  Codon Adaptation Index (vs reference): 0.256
+  Protein Sequence: ADTARRSRTTERSESVSEEAEERLMRYFLLTHLCGISHRIYGALSVQSALMPHS
+
+ORF ID: ORF_21 (2507-2663, Strand: 1)
+  Length(aa): 51
+  MW(Da): 5689.23
+  Isoelectric Point(pI): 8.86
+  Instability Index: 60.99 (Unstable)
+  Codon Adaptation Index (vs reference): 0.177
+  Protein Sequence: YRSPQPNDRAQRVSERGSGRAPDAVFSPYASVRYFTPHIWCTLSTICSDAA
+
+ORF ID: ORF_35 (2702-2945, Strand: -1)
+  Length(aa): 80
+  MW(Da): 9037.33
+  Isoelectric Point(pI): 12.00
+  Instability Index: 54.82 (Unstable)
+  Codon Adaptation Index (vs reference): 0.154
+  Protein Sequence: RFWRNSTSWTRMNRQTSVNRFTTTLMSFTAAASRVSVMTVKTSDTCSSRRRSQLVCKRMPGADKPVRARQRVLAGVGAQP
+
+ORF ID: ORF_5 (2739-2949, Strand: 1)
+  Length(aa): 69
+  MW(Da): 7828.17
+  Isoelectric Point(pI): 9.83
+  Instability Index: 44.61 (Unstable)
+  Codon Adaptation Index (vs reference): 0.272
+  Protein Sequence: RALTGLSAPGIRLQTSCDRLRELHVSEVFTVITETREAAAVKLISVVVKRFTDVCLFIRVQLVEFLQKR
+
+ORF ID: ORF_28 (2814-3174, Strand: -1)
+  Length(aa): 119
+  MW(Da): 13457.08
+  Isoelectric Point(pI): 6.32
+  Instability Index: 59.59 (Unstable)
+  Codon Adaptation Index (vs reference): 0.289
+  Protein Sequence: VIFLWSRRIHTASCLPSQRSSNRACSSSVTRIVSILSRFIGIITPMNRNPPYTEASVTKQEKTALNMARFIRSQTLTLLEKLNELDADEQADICESLHDHADELYRSCLARFGDDGENL
+
+ORF ID: ORF_13 (3022-3406, Strand: 1)
+  Length(aa): 127
+  MW(Da): 14692.93
+  Isoelectric Point(pI): 10.26
+  Instability Index: 39.42 (Stable)
+  Codon Adaptation Index (vs reference): 0.250
+  Protein Sequence: GGFLFMGVMIPMKRERMLTIRVTDDEHARLLERCEGKQLAVWMRRDQRKITQGQCQRFVNTDVGVPQGSQQHPAMQIRNIMVQGADFRVSRLYETRKPKTIHVVAQVADVLQQQSLHVRSRIGDSFC
+
+ORF ID: ORF_22 (3059-3212, Strand: 1)
+  Length(aa): 50
+  MW(Da): 5740.59
+  Isoelectric Point(pI): 10.04
+  Instability Index: 15.00 (Stable)
+  Codon Adaptation Index (vs reference): 0.107
+  Protein Sequence: NERGCSRYGLLMMNMPGYWNVVRVNNWRYGCGGTREKSLRVNASASLIQM
+
+ORF ID: ORF_45 (3109-3394, Strand: -1)
+  Length(aa): 94
+  MW(Da): 10774.38
+  Isoelectric Point(pI): 8.62
+  Instability Index: 36.96 (Stable)
+  Codon Adaptation Index (vs reference): 0.348
+  Protein Sequence: ITDTRANVKRLLLQNVCDLSNNMNGLRFPCFVKSGNAEVSALHHYVPDLHRRMLLATLWNTYICINEALALTLSDFSLVPPHPYRQLFTLTTFQ
+
+ORF ID: ORF_34 (3197-3428, Strand: -1)
+  Length(aa): 76
+  MW(Da): 8445.41
+  Isoelectric Point(pI): 10.00
+  Instability Index: 55.26 (Unstable)
+  Codon Adaptation Index (vs reference): 0.269
+  Protein Sequence: AGGVALLVSRMNHRYASEREATAAAKRLRPEQQHEWSSVSVFRKVWKRGSQRPAPLCSGSASQDAAGYPVEHLHLY
+
+ORF ID: ORF_44 (3394-3799, Strand: -1)
+  Length(aa): 134
+  MW(Da): 14953.61
+  Isoelectric Point(pI): 10.24
+  Instability Index: 68.78 (Unstable)
+  Codon Adaptation Index (vs reference): 0.191
+  Protein Sequence: CKLAHSLGTGISTDALESLQPSQLLPVGAGHDYRRRTYDCLLYHATRRTGAGSALGHFRRGPLSLERDDDRPVACGIRNLARPRSSLRHWSRHQTFRREAGHYRRHGGPTGAHDRAPVVEDPARLAGLPYWLAE
+
+ORF ID: ORF_27 (3402-3777, Strand: -1)
+  Length(aa): 124
+  MW(Da): 13547.14
+  Isoelectric Point(pI): 12.00
+  Instability Index: 39.87 (Stable)
+  Codon Adaptation Index (vs reference): 0.192
+  Protein Sequence: APGSRPMPLRAFNPVSSFRWARGMTIVAALMTVFFIMQLVGQVPAALWVIFGEDRFRWSATMIGLSLAVFGILHALAQAFVTGPATKRFGEKQAIIAGMAAPRVRMIVLLSLRTRLGWRGCLTG
+
+ORF ID: ORF_6 (3432-4032, Strand: 1)
+  Length(aa): 199
+  MW(Da): 22006.09
+  Isoelectric Point(pI): 6.93
+  Instability Index: 64.54 (Unstable)
+  Codon Adaptation Index (vs reference): 0.212
+  Protein Sequence: PGPQRQEHDHAHPWGRHAGDNGLLLAETFGGGTSDEGLSEGVQDSEYRKRQADHRRAPAKAVLAENDPERCRHLSYELHDKEDSHKCGDDSHAPRPPEGADWVEGSQGHRSRSRCLMSELTYINCVALTARFPVGKPVVPAALMNRPTRGERRFAYWAPGWFFFSPVRRATADCPSPPGPERVAASGPRWFAPAGENPV
+
+ORF ID: ORF_14 (3547-3781, Strand: 1)
+  Length(aa): 77
+  MW(Da): 8128.62
+  Isoelectric Point(pI): 11.04
+  Instability Index: 49.06 (Unstable)
+  Codon Adaptation Index (vs reference): 0.159
+  Protein Sequence: ARACKIPNTASDRPIIVALQRKRSSPKMTQSAAGTCPTSCMIKKTVISAATIVMPRAHRKELTGLKALKGIGRDPGA
+
+ORF ID: ORF_33 (3794-4193, Strand: -1)
+  Length(aa): 132
+  MW(Da): 14097.68
+  Isoelectric Point(pI): 11.52
+  Instability Index: 43.03 (Unstable)
+  Codon Adaptation Index (vs reference): 0.188
+  Protein Sequence: GHRSHCDAGCQRSDGAGRNARHYRVRAARWCGYLGSGIRRYRRQLMLYPAVNHHQTGFSPAGANQRGPLAATLSGPGGEGQSAVARLTGEKKNHPGAQYANRLSPRVGRFINAAGTTGFPTGKRAVSATQLM
+
+ORF ID: ORF_43 (3814-4930, Strand: -1)
+  Length(aa): 371
+  MW(Da): 39900.11
+  Isoelectric Point(pI): 6.43
+  Instability Index: 39.18 (Stable)
+  Codon Adaptation Index (vs reference): 0.290
+  Protein Sequence: RPEESQFRVVNVKPVTLYDVAEYAGVSYQTVSRVVNQASHVSAKTREKVEAAMAELNYIPNRVAQQLAGKQSLLIGVATSSLALHAPSQIVAAIKSRADQLGASVVVSMVERSGVEACKAAVHNLLAQRVSGLIINYPLDDQDAIAVEAACTNVPALFLDVSDQTPINSIIFSHEDGTRLGVEHLVALGHQQIALLAGPLSSVSARLRLAGWHKYLTRNQIQPIAEREGDWSAMSGFQQTMQMLNEGIVPTAMLVANDQMALGAMRAITESGLRVGADISVVGYDDTEDSSCYIPPLTTIKQDFRLLGQTSVDRLLQLSQGQAVKGNQLLPVSLVKRKTTLAPNTQTASPRALADSLMQLARQVSRLESGQ
+
+ORF ID: ORF_15 (4060-4333, Strand: 1)
+  Length(aa): 90
+  MW(Da): 9980.22
+  Isoelectric Point(pI): 11.18
+  Instability Index: 26.09 (Stable)
+  Codon Adaptation Index (vs reference): 0.226
+  Protein Sequence: AVFGIVVSHYRDIRTNAQPGLGNGAHCAQRHLIVGNQHRSGNDALIQHLHGLLKTGHGTPVAFPFRYRLNLIASEIFMPASQTQTRRDRT
+
+ORF ID: ORF_7 (4128-4284, Strand: 1)
+  Length(aa): 51
+  MW(Da): 6095.72
+  Isoelectric Point(pI): 6.92
+  Instability Index: 76.54 (Unstable)
+  Codon Adaptation Index (vs reference): 0.219
+  Protein Sequence: WRALRPAPSDRWQPASQWERCPHSAFAWFVENRTWHSSRLPVPLSAEFDCE
+
+ORF ID: ORF_26 (4341-4530, Strand: -1)
+  Length(aa): 62
+  MW(Da): 7629.10
+  Isoelectric Point(pI): 11.89
+  Instability Index: 62.39 (Unstable)
+  Codon Adaptation Index (vs reference): 0.183
+  Protein Sequence: SLTIRWMTRMPLLWKLPALMFRRYFLMSLTRHPSTVLFSPMKTVRDWAWSIWSHWVTSKSRC
+
+ORF ID: ORF_23 (4364-4523, Strand: 1)
+  Length(aa): 52
+  MW(Da): 5483.09
+  Isoelectric Point(pI): 9.56
+  Instability Index: 48.33 (Unstable)
+  Codon Adaptation Index (vs reference): 0.134
+  Protein Sequence: PNATRCSTPSRVPSSWEKIILLMGVWSETSRNNAGTLVQAASTAMASWSSSG
+
+ORF ID: ORF_16 (4462-4882, Strand: 1)
+  Length(aa): 139
+  MW(Da): 15942.95
+  Isoelectric Point(pI): 12.00
+  Instability Index: 53.80 (Unstable)
+  Codon Adaptation Index (vs reference): 0.247
+  Protein Sequence: RRNISAGSFHSNGILVIQRIVNDQPTDALREKIVHRRFTGFDAASFYHRHHHAGTQLIGARFNRRDNLRRRVQGQTGGGNANQQRLFARQLLCHAVGNVIQLRHRRFHFFPRFRRNVAGLVHHAGNGLIRDTGILCDIV
+
+ORF ID: ORF_32 (4646-5276, Strand: -1)
+  Length(aa): 209
+  MW(Da): 21833.62
+  Isoelectric Point(pI): 8.84
+  Instability Index: 34.92 (Stable)
+  Codon Adaptation Index (vs reference): 0.217
+  Protein Sequence: FSKISILYAGRIVAGITGATGAVAGAYIADITDGEDRARHFGLMSACFGVGMVAGPVAGGLLGAISLHAPFLAAAVLNGLNLLLGCFLMQESHKGERRDPGHHRMAQNLSRYGMIAPGRESIQGGECETSNVIRCRRVCRCLLSDRFPRGEPGQPRFCENAGKSGSGDGGAELHSQPRGTTTGGQTVVADWRCHLQSGPARAVANCRGD
+
+ORF ID: ORF_8 (4650-4911, Strand: 1)
+  Length(aa): 86
+  MW(Da): 9739.03
+  Isoelectric Point(pI): 12.00
+  Instability Index: 96.67 (Unstable)
+  Codon Adaptation Index (vs reference): 0.170
+  Protein Sequence: SPRQFATARAGPDWRWQRQSATTVCPPVVVPRGWECNSAPPSPLPLFPAFSQKRGWPGSPRGKRSDKRHRHTLRHRITLLVSHSPP
+
+ORF ID: ORF_17 (4882-5038, Strand: 1)
+  Length(aa): 51
+  MW(Da): 5636.36
+  Isoelectric Point(pI): 7.09
+  Instability Index: 66.48 (Unstable)
+  Codon Adaptation Index (vs reference): 0.234
+  Protein Sequence: RYWFHIHHPELTLFRALSCHTAKGFAPFDGVRDLDALPYATPALGSSPVVG
+
+ORF ID: ORF_9 (4911-5199, Strand: 1)
+  Length(aa): 95
+  MW(Da): 10265.92
+  Isoelectric Point(pI): 10.84
+  Instability Index: 109.36 (Unstable)
+  Codon Adaptation Index (vs reference): 0.129
+  Protein Sequence: IDSLPGAIMPYRERFCAIRWCPGSRRSPLCDSCIRKQPSSRLRPLSTAAARNGACKEMAPNSPPATGPATIPTPKQALMSPKWRARSSPSVMSAI
+
+ORF ID: ORF_25 (4995-5280, Strand: -1)
+  Length(aa): 94
+  MW(Da): 10785.33
+  Isoelectric Point(pI): 12.00
+  Instability Index: 70.50 (Unstable)
+  Codon Adaptation Index (vs reference): 0.120
+  Protein Sequence: LIFKDLDPLRRTHRGRHHRRHRCGCWRLYRRHHRWGRSGSPLRAHERLFRRGYGGRPRGRGTVGRHLLACTIPCGGGAQRPQPTTGLLPNAGVA
+
+ORF ID: ORF_24 (5033-5273, Strand: 1)
+  Length(aa): 79
+  MW(Da): 8282.79
+  Isoelectric Point(pI): 5.11
+  Instability Index: 53.35 (Unstable)
+  Codon Adaptation Index (vs reference): 0.306
+  Protein Sequence: VEAVEHRRRKEWCMQGDGAQQSPGHGACHHTHAETSAHEPEVASPIFPIGDVGDIGASNRTCGAGDAGHDASGVEDRDL
+
+ORF ID: ORF_42 (5143-5302, Strand: -1)
+  Length(aa): 52
+  MW(Da): 5568.27
+  Isoelectric Point(pI): 11.83
+  Instability Index: 81.70 (Unstable)
+  Codon Adaptation Index (vs reference): 0.122
+  Protein Sequence: RHYTSRMINFQRSRSSTPDASWPASPAPQVRLLAPISPTSPMGKIGLATSGS
+
+
+--- Codon_Usage_Frequency ---
+  AAA: 82 (1.79%)
+  AAC: 75 (1.64%)
+  AAG: 65 (1.42%)
+  AAT: 60 (1.31%)
+  ACA: 46 (1.01%)
+  ACC: 87 (1.90%)
+  ACG: 63 (1.38%)
+  ACT: 60 (1.31%)
+  AGA: 55 (1.20%)
+  AGC: 86 (1.88%)
+  AGG: 47 (1.03%)
+  AGT: 59 (1.29%)
+  ATA: 60 (1.31%)
+  ATC: 85 (1.86%)
+  ATG: 87 (1.90%)
+  ATT: 54 (1.18%)
+  CAA: 65 (1.42%)
+  CAC: 68 (1.49%)
+  CAG: 112 (2.45%)
+  CAT: 77 (1.68%)
+  CCA: 78 (1.70%)
+  CCC: 73 (1.60%)
+  CCG: 91 (1.99%)
+  CCT: 62 (1.36%)
+  CGA: 65 (1.42%)
+  CGC: 138 (3.02%)
+  CGG: 92 (2.01%)
+  CGT: 67 (1.46%)
+  CTA: 25 (0.55%)
+  CTC: 74 (1.62%)
+  CTG: 118 (2.58%)
+  CTT: 65 (1.42%)
+  GAA: 88 (1.92%)
+  GAC: 64 (1.40%)
+  GAG: 78 (1.70%)
+  GAT: 95 (2.08%)
+  GCA: 97 (2.12%)
+  GCC: 109 (2.38%)
+  GCG: 130 (2.84%)
+  GCT: 107 (2.34%)
+  GGA: 54 (1.18%)
+  GGC: 122 (2.67%)
+  GGG: 66 (1.44%)
+  GGT: 94 (2.05%)
+  GTA: 56 (1.22%)
+  GTC: 65 (1.42%)
+  GTG: 75 (1.64%)
+  GTT: 81 (1.77%)
+  TAC: 45 (0.98%)
+  TAT: 44 (0.96%)
+  TCA: 74 (1.62%)
+  TCC: 69 (1.51%)
+  TCG: 63 (1.38%)
+  TCT: 55 (1.20%)
+  TGC: 79 (1.73%)
+  TGG: 80 (1.75%)
+  TGT: 48 (1.05%)
+  TTA: 58 (1.27%)
+  TTC: 81 (1.77%)
+  TTG: 68 (1.49%)
+  TTT: 89 (1.95%)
