@@ -1,25 +1,13 @@
-<<<<<<< HEAD
-streamlit>=1.28.0
-pandas>=1.5.0
-numpy>=1.21.0
-scikit-learn>=1.2.0
-plotly>=5.13.0
-matplotlib>=3.5.0
-seaborn>=0.12.0
-Pillow>=9.0.0
-scipy>=1.9.0
-joblib>=1.2.0
-requests>=2.28.0
-=======
 streamlit>=1.28.0
 pandas>=2.0.0
-numpy>=1.21.0
-scipy>=1.7.0
-scikit-learn>=1.0.0
-plotly>=5.0.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
+numpy>=1.24.0
+plotly>=5.15.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
 Pillow>=10.0.0
-openpyxl>=3.0.0
-requests>=2.25.0
->>>>>>> 0eee529c03551fbbf656b48d334eff7283c22686
+requests>=2.31.0
+openpyxl>=3.1.0
+
+# 单细胞数据支持（可选）
+anndata>=0.9.0
+scanpy>=1.9.0
