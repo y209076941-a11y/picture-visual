@@ -1,0 +1,20 @@
+{
+    "Leiden": {
+        "n_clusters": 47,
+        "silhouette": 0.2755686044692993,
+        "calinski": 27809.019894671866,
+        "davies": 1.4388334226551958
+    },
+    "KMeans": {
+        "n_clusters": 10,
+        "silhouette": 0.16252225637435913,
+        "calinski": 45650.281741898405,
+        "davies": 1.7542381672609502
+    },
+    "DBSCAN": {
+        "n_clusters": 1800,
+        "silhouette": -0.6902120113372803,
+        "calinski": 25.48491007661324,
+        "davies": 1.3405873447094023
+    }
+}
