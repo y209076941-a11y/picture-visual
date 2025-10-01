@@ -1,0 +1,12 @@
+{
+  "placebo": {
+    "end_distance": 65.11425194898315,
+    "mean_speed": 1.4282735523361145,
+    "chemotactic_index": 0.8349173460913709
+  },
+  "drug": {
+    "end_distance": 86.33336310865963,
+    "mean_speed": 1.7805558250851021,
+    "chemotactic_index": 0.9970927201574801
+  }
+}
