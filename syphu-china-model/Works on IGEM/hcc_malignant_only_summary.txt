@@ -1,0 +1,4 @@
+数据集: hcc_malignant_only
+细胞数量: 743
+基因数量: 22781
+表型信息列: PMID_donor_id, donor_id, pre_post, author_cell_type, author_cell_type_update, outcome, Combined_outcome, Cancer_type_update, Study_name, Primary_or_met, donor_id_pre_post, donor_id_outcome, donor_id_cell_types, donor_id_cell_types_pre_post, donor_id_pre_post_outcome, tissue_ontology_term_id, tissue_type, disease_ontology_term_id, cell_type_ontology_term_id, PMID, Sample, Treatment.or.Mode.of.Action, suspension_type, sex_ontology_term_id, assay_ontology_term_id, development_stage_ontology_term_id, self_reported_ethnicity_ontology_term_id, nCount_RNA, nFeature_RNA, Study_name_cancer, Cell_type_broad, is_primary_data, cell_type, assay, disease, sex, tissue, self_reported_ethnicity, development_stage, observation_joinid
